@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Тестовое задание</string>
+    <string name="tab_login">Войти</string>
+    <string name="tab_registration">Регистрация</string>
+
+    <string name="login_hint">Логин</string>
+    <string name="log_in">Войти</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="hint_registration">Логин</string>
+    <string name="hint_password">Пароль</string>
+    <string name="hint_confirm_password">Повторите пароль</string>
+    <string name="map">Карта</string>
+    <string name="photos">Фотографии</string>
+    <string name="date">Дата</string>
+    <string name="download_image">Загрузить фотографии</string>
+    <string name="send_photo">Отправить фотографию</string>
+</resources>
